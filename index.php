@@ -36,7 +36,7 @@ https://www.tooplate.com/view/2114-pixie
                <?php
 $output = shell_exec('curl http://169.254.169.254/latest/meta-data/public-hostname');
 echo "<h1><center><pre>$output</pre></center></h1>";
-echo "<h1><center>shopping-app version dev</center></h1>"
+echo "<h1><center>shopping-app version super latest</center></h1>"
 ?>
             </span>
           </div>
